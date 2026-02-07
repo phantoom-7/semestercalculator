@@ -1,0 +1,22 @@
+{
+  "name": "Moyenne Calculator",
+  "short_name": "Moyenne Calc",
+  "description": "Calculate your semester and module averages with ease. A simple tool for students to track their academic performance.",
+  "start_url": "/semestercalculator/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4F46E5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/semestercalculator/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/semestercalculator/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
